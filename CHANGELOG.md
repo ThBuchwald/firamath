@@ -2,6 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com).
 
+## [Unreleased@glyphs-app]
+
+- Added:
+  - Add width axis
+  - Support more weights
+- Changed:
+  - Use Glyphs to maintain this project
+
 ## [Unreleased]
 
 - Added:
